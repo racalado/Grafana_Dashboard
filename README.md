@@ -33,10 +33,8 @@ O dashboard utiliza variáveis para facilitar a visualização de diferentes ins
 ## 📷 Exemplos do Dashboard
 
 ![API-BASIC](API-BASIC.png)
-
-
-API-CPU.png
-API-RED.png
+![API-CPU](API-CPU.png)
+![API-RED](API-RED.png)
 
 ---
 
