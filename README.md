@@ -30,6 +30,12 @@ O dashboard utiliza variáveis para facilitar a visualização de diferentes ins
 - `$instance` - Define a instância da API a ser monitorada.
 - `$job` - Permite filtrar métricas de diferentes serviços.
 
+## 📷 Exemplos do Dashboard
+
+API-BASIC.png
+API-CPU.png
+API-RED.png
+
 ---
 
 Se tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue! 🚀
